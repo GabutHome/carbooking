@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "name": "Admin",
+        "email": "admin@gmail.com",
+        "nip": "80649807",
+        "password": "$2a$12$ZGgm4h2f5tpnb9lSdGUm1emwnm.MZ/Gr/lIsKP2hUvdlRTMpsPLuO",
+        "image": null,
+        "phone_number": null,
+        "remember_token": null,
+        "created_at": null,
+        "updated_at": null,
+        "is_admin": "1"
+    },
+    {
+        "id": "2",
+        "name": "Mutiara Callista",
+        "email": "mutiaracllstaa@gmail.com",
+        "nip": "17190849",
+        "password": "$2a$12$tyCYOGL/IdTicSmwPikSHeucHLkP907cBo/fmxVASrDiJuPJuoYmO",
+        "image": null,
+        "phone_number": null,
+        "remember_token": null,
+        "created_at": null,
+        "updated_at": null,
+        "is_admin": "0"
+    }
+]

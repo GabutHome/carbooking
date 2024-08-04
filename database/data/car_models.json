@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "brand": "Honda",
+        "model": "Brio Kuning",
+        "plat_no": "B 1234 ABC",
+        "year": "2019",
+        "type": "WR-V",
+        "image": "car-images/M1v65nK9E0OymtZ2OtEheadRFyDG5tjH7XiDE3hj.png",
+        "status": "0",
+        "created_at": "2023-06-18 01:28:27",
+        "updated_at": "2023-06-18 01:28:27"
+    },
+    {
+        "id": "2",
+        "brand": "Honda",
+        "model": "Brio Putih",
+        "plat_no": "B 1234 BCD",
+        "year": "2019",
+        "type": "WR-V",
+        "image": "car-images/00aPigO1G9UKHd6ec5I80ZOso2L6Id2LG3LZA95H.png",
+        "status": "0",
+        "created_at": "2023-06-18 01:29:01",
+        "updated_at": "2023-06-18 01:29:01"
+    },
+    {
+        "id": "3",
+        "brand": "Toyota",
+        "model": "Avanza Hitam",
+        "plat_no": "B 1234 CDE",
+        "year": "2020",
+        "type": "G",
+        "image": "car-images/cMcYQBQJdE0cyWCkJCoQc30hiVQvvVQcxeCvKTpT.jpg",
+        "status": "0",
+        "created_at": "2023-06-18 01:30:13",
+        "updated_at": "2023-06-18 01:30:29"
+    },
+    {
+        "id": "4",
+        "brand": "Toyota",
+        "model": "Avanza Putih",
+        "plat_no": "B 1234 DEF",
+        "year": "2020",
+        "type": "G",
+        "image": "car-images/o2UjT7Kpp1Nywh8M9ssD98h6jzT416qUSkG0XZt9.jpg",
+        "status": "0",
+        "created_at": "2023-06-18 01:30:54",
+        "updated_at": "2023-06-18 01:30:54"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "jabatan": "Dewan Pengawas",
+        "priority": "1"
+    },
+    {
+        "jabatan": "Ketua Umum",
+        "priority": "2"
+    },
+    {
+        "jabatan": "Ketua Komunitas",
+        "priority": "3"
+    },
+    {
+        "jabatan": "Sekertaris",
+        "priority": "3"
+    },
+    {
+        "jabatan": "Bendahara",
+        "priority": "3"
+    },
+    {
+        "jabatan": "Ketua Biro",
+        "priority": "3"
+    },
+    {
+        "jabatan": "Staff",
+        "priority": "4"
+    }
+]
